@@ -1,2 +1,2 @@
-# Gerador_de_Senhas
-Gerador de senhas feito em python
+# Gerador de Senhas
+Gerador de senhas aleatórias feito em python.
